@@ -1,0 +1,11 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 844E-BF0D
+
+ Directory of C:\Users\chethan\Desktop\project
+
+07/07/2018  07:01 PM    <DIR>          .
+07/07/2018  07:01 PM    <DIR>          ..
+07/07/2018  06:57 PM               356 test1.txt
+07/07/2018  07:01 PM                 0 test2.txt
+               2 File(s)            356 bytes
+               2 Dir(s)  51,223,474,176 bytes free
